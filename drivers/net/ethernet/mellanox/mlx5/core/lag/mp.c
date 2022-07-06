@@ -4,7 +4,7 @@
 #include <linux/netdevice.h>
 #include <net/nexthop.h>
 #include "lag.h"
-#include "lag_mp.h"
+#include "mp.h"
 #include "mlx5_core.h"
 #include "eswitch.h"
 #include "lib/mlx5.h"
